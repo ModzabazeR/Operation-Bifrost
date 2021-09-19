@@ -1,3 +1,6 @@
 [submodule "tools/sc3tools-thai-support"]
 	path = tools/sc3tools-thai-support
 	url = https://github.com/ModzabazeR/sc3tools-thai-support
+[submodule "tools/LanguageBarrier-Thai-Support"]
+	path = tools/LanguageBarrier-Thai-Support
+	url = https://github.com/ModzabazeR/LanguageBarrier-Thai-Support
