@@ -1,7 +1,7 @@
 # Operation Bifrost
 Currently Steins;Gate Thai Localization Project
 
-## วิธีการติดตั้ง
+## วิธีการติดตั้ง (ยังไม่เปิดให้โหลด)
 แพทช์ภาษาไทยนี้ based on แพทช์แฟนเมดของ Committee of Zero ดังนั้นจะสามารถใช้ได้กับ Steins;Gate เวอร์ชั่น Steam ที่ไม่ได้ตั้งเป็นภาษาญี่ปุ่นเท่านั้น ไม่สามารถทำงานบนเวอร์ชั่นอื่นหรือเกมเถื่อนได้
 
 1. ดาวน์โหลดตัวติดตั้ง ให้โหลดตัว `SGPatch-v<version>-Setup.zip` ไม่ใช่ source code นะครับ
@@ -12,7 +12,7 @@ Currently Steins;Gate Thai Localization Project
 4. หลังจากที่ติดตั้งเสร็จและแอปปิดลงแล้วสามารถลบโฟลเดอร์นั้นทิ้งได้เลย
 
 # Tools
-- ถอดไฟล์ MPK - [QuickBMS](https://aluigi.altervista.org/quickbms.htm)
+- ถอดไฟล์ MPK - [MPK PACK/UNPACK](https://github.com/ModzabazeR/mpktools) / [QuickBMS](https://aluigi.altervista.org/quickbms.htm)
 - ถอดไฟล์ text - [sc3tools](https://github.com/ModzabazeR/sc3tools-thai-support)
 - Text wrapping - [LanguageBarrier](https://github.com/ModzabazeR/LanguageBarrier-Thai-Support)
 
