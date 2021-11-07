@@ -4,3 +4,6 @@
 [submodule "tools/LanguageBarrier-Thai-Support"]
 	path = tools/LanguageBarrier-Thai-Support
 	url = https://github.com/ModzabazeR/LanguageBarrier-Thai-Support
+[submodule "tools/ObScriptTool"]
+	path = tools/ObScriptTool
+	url = https://github.com/ModzabazeR/ObScriptTool.git
